@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Manali Tourism (2023)</title>
+	</head>
+
+	<body>
+		<center>
+			<h1 style="background-color:DodgerBlue;"> Must Know Before You Visit Manali </h1>
+			<p> With spectacular valleys, breathtaking views, snowcapped mountains, and lush forests of oak, deodar, and pine, Manali is a magical hill station at the northern end of Kullu valley in Himachal Pradesh. Gifted to the world by the mighty Himalayas, it is known to be one of the most popular destinations for Honeymooners. Manali offers magnificent views of the Pir Panjal and the Dhauladhar ranges, covered in a thick blanket of snow for most of the year.
+			<hr> <hr> </p>
+			<p>Over the last few years, Manali has evolved into a place loved by young people looking for more extended stays. With ambient cafes, good wifi availability, small eateries, and convenient shops, Old Manali is among the favorite neighborhood for such people. In addition, many homestays and hostels offer dorm beds for cheap for longer durations. 
+			<br> <hr> <hr> Apart from vacations and workations, Manali is a must-visit for trekkers, as it's an excellent base for exploring this side of the Himalayas. River Beas provides great rafting options in the nearby town of Kullu. Adjoining the Parvati river lies the Parvati Valley, with  Kasol, Manikaran, Tosh, and small villages attracting travelers for extended stays. Atal Tunnel allows travelers to reach Sissu within a few hours, making Spiti more accessible. 
+			<hr> 
+			<marquee style="font-family:verdana;" style="font-size:300%;"> "Lover's Paradise - India's Honeymoon capital" </marquee>
+			<hr></p>
+			
+			<a href = "https://himachaltourism.gov.in/destination/manali/"> Click here </a>
+		
+		<br><img src = "C:\Users\232338\Downloads\manali4.jpg" width="800" height = "450">
+	</center>
+</body>
+</html>
